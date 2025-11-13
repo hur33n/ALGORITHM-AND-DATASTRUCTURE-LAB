@@ -2,14 +2,14 @@
 TFB2023/TEB1113: Algorithm and Data Structure.
 
 
-DATE  | TOPIC of LAB TASK 
-------------- | ------------- 
-25/9/2025  | [LAB 01] STRUCT
-2/10/2025  | [LAB 02] MATRIX
-9/10/2025 | [LAB 03] LINKED LIST
-16/10/2025 | [LAB 04] CIRCULAR LINKED LIST
-23/10/2025 | [LAB 05] STACK
-6/11/2025 | [LAB 06] QUEUE
+TOPIC of LAB TASK | LINK
+------------- | -------------  
+[LAB 01] : STRUCT | [25-09-25] LAB01
+[LAB 02] : MATRIX | [25-10-02] LAB02
+[LAB 03]  : LINKED LIST | [25-10-09] LAB03
+[LAB 04] : CIRCULAR LINKED LIST | [25-10-16] LAB04
+[LAB 05] : STACK | [25-10-23] LAB05
+[LAB 06]  : QUEUE | [25-11-06] LAB06
 
 
                 
